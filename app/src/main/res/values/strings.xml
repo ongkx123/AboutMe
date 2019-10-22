@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Ong Kai Xiang</string>
+    <string name="my_profile_pic">Profile Picture</string>
+    <string name="my_profile_desc">
+        \nEducation:
+        \n\tSJKC Lai Meng, kuala Lumpur
+        \n
+        \n\tSMK Confucian
+        \n
+        \n\tTAR UC
+        \n
+        \n\nHobby:
+        \n\tPlaying with my pets which is ->
+        \n\t\t KAR DOG,CHING PIG, PEPPA LEE
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n
+        \n\t MY LOVELY PETS IS KAR DOG
+    </string>
+</resources>
